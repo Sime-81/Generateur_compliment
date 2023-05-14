@@ -1,0 +1,37 @@
+{
+    "compliments": {
+      "Cuisine": [
+        "Tu es une chef incroyable !",
+        "Tu nous prépare d'excellent plat chaque jour.",
+        "Tout ce que tu fais en cuisine est délicieux.",
+        "Chacun de tes plats reflète ton amour pour nous."
+      ],
+      "Jardinage": [
+        "Tu prends soin de tes fleurs comme tu prends soin de nous, avec beaucoup d'amour.",
+        "Ton amour rend tes fleurs plus belle."
+      ],
+      "Lecture": [
+        "Tu es une grande lectrice et j'admire ta passion pour les livres.",
+        "J'aime beaucoup discuter de livres avec toi, tu as toujours de bonnes recommandations.",
+        "Tes connaissances en littérature sont vraiment impressionnantes.",
+        "Ta passion pour les livres est une source d'inspiration."
+      ],
+      "Poterie": [
+        "Quoi que tu dises tes créations sont magnifiques.",
+        "Tu as un talent inée pour ça"
+      ],
+      "Musique": [
+        "Tu as des gouts musicaux d'exception.",
+        "Quand tu aimes une musique c'est pour la vie."
+      ],
+      "Maman": [
+        "Tu es une maman incroyable !",
+        "Tu es la meilleure des mamans.",
+        "Personne ne peut rêver mieux comme mère.",
+        "Je me sens rassuré quand tu es prêt de moi.",
+        "Je me noie dans ton amour !",
+        "Tu es mon univers.",
+        "Les autre mamans sont jalouse de toi."
+      ]
+    }
+  }
